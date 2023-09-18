@@ -62,10 +62,10 @@ const SharedLayout = () => {
                   <span className="navbar-toggler-icon"></span>
                 </button>
                 <div
-                  className="collapse navbar-collapse justify-content-center bg-primary"
+                  className="navbar-collapse justify-content-center"
                   id="navbarCollapse"
                 >
-                  <div className="navbar-nav mr-auto py-0">
+                  <div className="navbar-nav mr-28 py-0">
                     <a href="/" className="nav-item nav-link active">
                       Home
                     </a>
